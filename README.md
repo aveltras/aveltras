@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You can find the posts previously hosted on my website here:
+* [Setting up a Haskell development environment with Nix](https://github.com/aveltras/setting-up-a-haskell-development-environment-with-nix)
+* [Deploying your application with NixOS](https://github.com/aveltras/deploying-your-app-with-nixos)
+
 <!--
 **aveltras/aveltras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
